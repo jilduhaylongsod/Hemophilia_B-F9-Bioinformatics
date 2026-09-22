@@ -10,11 +10,17 @@ annotation tracks, and a clinically reported variant.
 ## Part B- F9 Gene Location
 
 **Official gene symbol:** F9
+
 **Full gene name:** Coagulation factor IX
+
 **Chromosome:** X
+
 **Genome Assembly used:** GRHCh38/hg38
+
 **Genomic coordinates shown in UCSC:** chrX:139, 530, 739-139, 563, 459
+
 **DNA strand:** + (positive strand)
+
 **Approximate gene size:** 32,721 bp
 
 ## Part C - Understand the Gene Structure: Exons, Introns, and Transcripts
