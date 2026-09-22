@@ -1,6 +1,8 @@
 # Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 **Name:** Jil M. Duhaylongsod
+
 **Assigned Gene:** F9
+
 **Associated disease:** Hemophilia B
 
 ## Purpose
