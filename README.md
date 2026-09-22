@@ -14,5 +14,5 @@ annotation tracks, and a clinically reported variant.
 **Chromosome:** X
 **Genome Assembly:** GRHCh38/hg38
 **Genomic coordinates:** chrX:139, 530, 739-139, 563, 459
-**DNA strand:** +
+**DNA strand:** + (positive strand)
 **Approximate gene size:** 32,721 bp
