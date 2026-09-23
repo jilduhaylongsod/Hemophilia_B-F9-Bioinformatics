@@ -9,7 +9,7 @@
 This activity investigates the F9 gene using the UCSC Genome Browser and NCBI ClinVar. It focuses on the gene's genomic location, exon-intron structure,
 annotation tracks, and a clinically reported variant. 
 
-## Part B- F9 Gene Location
+## Part B- UCSC Gene Location
 
 **Official gene symbol:** F9
 
@@ -25,7 +25,7 @@ annotation tracks, and a clinically reported variant.
 
 **Approximate gene size:** 32,721 bp
 
-## Part C - Understand the Gene Structure: Exons, Introns, and Transcripts
+## Part C - Exons, Introns, and Transcripts
 **a. Number of exons you can identify in your selected transcript**
 - There are 8 exons
   
@@ -37,4 +37,7 @@ annotation tracks, and a clinically reported variant.
     
 **d. Describe whether the introns generally appear longer or shorter than the exons in your gene**
 - The introns generally appear longer than the exons in the F9 gene. The exons appear as shorter blocks, while the introns are the longer regions between them.
+
+## Part D - UCSC Annotation Tracks
+
   
