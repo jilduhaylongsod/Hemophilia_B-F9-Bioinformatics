@@ -81,5 +81,42 @@ annotation tracks, and a clinically reported variant.
 
 **h. ClinVar record URL**
 - https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
+
+## Part F - Locating the Variant in UCSC
+
+**a. Where is the variant located relative to your gene?**
+- The variant is located within the F9 gene region on the X chromosome, at chrX:139,530,816 (GRCh38).
+
+**b. Is it in an exon, intron, UTR, splice region, or another region?**
+- The variant is located in an exon of the F9 gene.
+
+**c. Is it likely in a coding or non-coding region based on the displayed annotations?**
+- It is likely in a coding region because the ClinVar record shows a protein change, p.Cys18Arg.
+
+**d. Based on its location and ClinVar information, briefly explain how the variant might affect the
+gene or gene product.**
+- The variant changes one amino acid in the Factor IX protein, from cysteine to arginine. This change may affect the normal function of Factor IX, and ClinVar classified the variant as pathogenic.
+
+**e. What additional evidence would be needed before concluding that the variant causes disease?**
+- More clinical cases, family studies, and laboratory/functional studies would be needed to further confirm that the variant causes disease.
+
+
+## Interpretation 
+
+
+## Part G - Refelction
+
+**1. What did UCSC show you about your gene that was not obvious from simply reading about the
+gene's function?**
+-
+
+**2. Why is knowing the exact genomic location of a disease-associated variant useful?**
+-
+
+**3. What is one limitation of predicting a variant's effect only from its genomic location?**
+-
+
+**4. What was the most interesting feature you observed about your assigned gene?**
+- 
   
 
