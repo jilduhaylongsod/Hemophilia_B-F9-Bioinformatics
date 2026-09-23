@@ -40,4 +40,17 @@ annotation tracks, and a clinically reported variant.
 
 ## Part D - UCSC Annotation Tracks
 
+**a. Which gene annotation track did you use?**
+- The RefSeq Curated and MANE Select Plus Clinical tracks were used to view the F9 gene and its transcripts.
   
+**b. Were ClinVar-related variant marks visible within or near your gene?**
+- No, ClinVar-related variant marks are not visible in this screenshot. The screenshot mainly shows the gene annotations, OMIM, common variants, and conservation tracks. 
+
+**c. Were some regions more conserved than others?**
+- Yes. Some regions show higher conservation peaks, while other regions have lower or little conservation. 
+
+**d. Did conserved regions correspond mainly to exons, introns, both, or another region?**
+- The conserved regions appear to correspond mainly to the exon regions, although some conserved areas can also be seen outside the exons.
+  
+**e. In 2-3 sentences, explain why strong conservation can suggest biological importance.**
+- Strong conservation means that a DNA region is very similar in different species. This can mean that the region is important for the gene to work properly.
