@@ -103,20 +103,29 @@ gene or gene product.**
 
 ## Interpretation 
 
+-The UCSC Genome Browser showed that the F9 gene is located on chromosome X (Xq27.1) and contains 8 exons separated by longer introns. The annotation tracks also showed multiple transcript isoforms, ClinVar variants, and conserved regions, indicating that parts of the gene are important for normal biological function.
+The selected ClinVar variant, NM_000133.4(F9):c.52T>C (p.Cys18Arg), is located in a coding exon of the F9 gene and is classified as pathogenic for Hemophilia B. Because this variant changes the amino acid sequence of the Factor IX protein, it may impair protein function and contribute to the bleeding disorder. Overall, the UCSC and ClinVar data demonstrate how combining genomic location with clinical variant information helps explain the molecular basis of disease.
 
 ## Part G - Refelction
 
 **1. What did UCSC show you about your gene that was not obvious from simply reading about the
 gene's function?**
--
+- UCSC showed the gene's exact location on chromosome X and where the disease-associated variant is located. It also showed gene tracks, ClinVar data, and conserved regions that are not obvious from reading about the gene's function.
 
 **2. Why is knowing the exact genomic location of a disease-associated variant useful?**
--
+- Knowing the exact location helps identify whether the variant is in a coding or non-coding region. This gives clues about how the variant may affect the gene or its protein.
 
 **3. What is one limitation of predicting a variant's effect only from its genomic location?**
--
+- The location alone cannot confirm that a variant causes disease. More evidence, such as functional studies and clinical data, is needed.
 
 **4. What was the most interesting feature you observed about your assigned gene?**
-- 
+- The most interesting feature was seeing the ClinVar variant directly mapped on the gene. It made it easier to understand where the mutation occurs and why that region may be important.
+
+## References and Links
+
+U.S. National Library of Medicine. (n.d.-b). Vcv000010568.2 - clinvar - NCBI. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
+UCSC Genome Browser Home. (n.d.-a). https://genome.ucsc.edu/s/l/QEhSwUu6GlhtqW4b
+UCSC Genome Browser Home. (n.d.-a). https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A139530739-139563459&hgsid=4175118389_2N99MM7dKJ1E8Qm6PaAA9Cy7KNmp
+
   
 
