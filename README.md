@@ -124,7 +124,9 @@ gene's function?**
 ## References and Links
 
 U.S. National Library of Medicine. (n.d.-b). Vcv000010568.2 - clinvar - NCBI. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
+
 UCSC Genome Browser Home. (n.d.-a). https://genome.ucsc.edu/s/l/QEhSwUu6GlhtqW4b
+
 UCSC Genome Browser Home. (n.d.-a). https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A139530739-139563459&hgsid=4175118389_2N99MM7dKJ1E8Qm6PaAA9Cy7KNmp
 
   
