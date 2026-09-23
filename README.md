@@ -41,10 +41,10 @@ annotation tracks, and a clinically reported variant.
 ## Part D - UCSC Annotation Tracks
 
 **a. Which gene annotation track did you use?**
-- The RefSeq Curated and MANE Select Plus Clinical tracks were used to view the F9 gene and its transcripts.
+- The RefSeq Curated track was used to view the F9 gene and its annotated regions.
   
 **b. Were ClinVar-related variant marks visible within or near your gene?**
-- No, ClinVar-related variant marks are not visible in this screenshot. The screenshot mainly shows the gene annotations, OMIM, common variants, and conservation tracks. 
+- Yes. Several ClinVar-related variant marks were visible within the displayed F9 gene region. 
 
 **c. Were some regions more conserved than others?**
 - Yes. Some regions show higher conservation peaks, while other regions have lower or little conservation. 
