@@ -44,7 +44,7 @@ annotation tracks, and a clinically reported variant.
 - The RefSeq Curated track was used to view the F9 gene and its annotated regions.
   
 **b. Were ClinVar-related variant marks visible within or near your gene?**
-- Yes. Several ClinVar-related variant marks were visible within the displayed F9 gene region. 
+- Yes. Several ClinVar variant marks can be seen within or near the F9 gene region 
 
 **c. Were some regions more conserved than others?**
 - Yes. Some regions show higher conservation peaks, while other regions have lower or little conservation. 
