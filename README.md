@@ -54,3 +54,32 @@ annotation tracks, and a clinically reported variant.
   
 **e. In 2-3 sentences, explain why strong conservation can suggest biological importance.**
 - Strong conservation means that a DNA region is very similar in different species. This can mean that the region is important for the gene to work properly.
+
+
+## Part E - Selected ClinVar Variant
+
+**a. Gene**
+- F9
+
+**b. Variant name/HGVS description**
+- NM_000133.4(F9):c.52T>C (p.Cys18Arg)
+
+**c. rsID or ClinVar Variation ID/VCV accession, if available**
+- Variation ID 10568; VCV000010568.2
+
+**d. Chromosome and genomic position, if provided**
+- X:139530816 (GRCh38), Xq27.1
+
+**e. Associated condition/disease**
+- Hemophilia B
+
+**f. Clinical significance exactly as reported by ClinVar**
+- Pathogenic
+
+**g. Review status, if shown**
+- The ClinVar page shows one filled star and three unfilled stars next to the review status.The classification is based on the single submission received.
+
+**h. ClinVar record URL**
+- https://www.ncbi.nlm.nih.gov/clinvar/variation/10568/
+  
+
